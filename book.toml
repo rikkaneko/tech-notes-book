@@ -1,0 +1,6 @@
+[book]
+authors = ["Joe Ma"]
+language = "en"
+multilingual = true
+src = "src"
+title = "Nekoxx's Tech Notes"
